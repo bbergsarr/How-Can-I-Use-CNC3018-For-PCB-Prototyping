@@ -32,7 +32,7 @@ Universal G-code Sender, often abbreviated as UGS, is a cross-platform Java-base
 
 # Making Adjustments Within The UGS Program 
 <p align="center">
-<img src="https://github.com/MKme/3018/blob/main/_%20Photos/IMG_3913.jpg" width="700"/>
+<img src="" width="700"/>
 
 
 

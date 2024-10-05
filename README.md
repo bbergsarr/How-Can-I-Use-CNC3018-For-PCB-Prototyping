@@ -123,3 +123,10 @@ Drill and Cutout Generation Besides milling the copper traces, FlatCAM can also 
 
 FlatCAM allows users to define and customize their tool libraries, enabling precise control over the milling and drilling process. You can specify different end mills or drill bits based on the type of material, desired trace width, or hole size. This level of customization is crucial for ensuring that your CNC machine operates with the correct tools for each specific job.
 
+<p align="center">
+<img src="flatcam.png" width="700"/>
+
+<p align="center">
+<b> Fig.2 Interface of flatCAM Program
+</b><br>
+Single Layer PCB Prototyping-2D CAM Process 
